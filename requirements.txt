@@ -2,3 +2,5 @@ jupyter
 pandas
 numpy
 seaborn
+tensorflow
+scikit-learn
